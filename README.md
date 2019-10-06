@@ -1,6 +1,6 @@
 # VehicleDataFetch
 
-VehicleDatFetch is Single Page application.
+VehicleDataFetch is Single Page application.
 
 Project covers data fetch through third party api => <https://swapi.co/documentation#vehicles>
 Search Vehicle by name and also provides empty search.
